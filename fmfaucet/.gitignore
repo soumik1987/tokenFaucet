@@ -1,0 +1,16 @@
+**/.env*
+**/venv*
+db.sqlite3
+__pycache__
+**/__pycache__
+
+.bashrc
+__pycache__
+dump.rdb
+
+**/*.DS_Store
+.DS_Store
+.DS_Store?
+
+*.log
+**/logs
